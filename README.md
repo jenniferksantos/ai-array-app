@@ -1,6 +1,6 @@
 # AI Array Players App
 
-Check out the live demo: ![ReactJS Quiz App](https://jenniferksantos.github.io/ai-array-app/)
+Check out the live demo: [ReactJS Quiz App](https://jenniferksantos.github.io/ai-array-app/)
 
 ## Description
 
